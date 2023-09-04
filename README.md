@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tommymiza
 - 👀 Looking for my work
-- 🌱 Current project: "React and nodejs"
+- 🌱 Current project: "Next.Js and Express"
 - 💞️ Interrested by "New IT technology"
 - 📫 Contact me: tommymiza20@gmail.com
 
